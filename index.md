@@ -12,7 +12,7 @@ nositetitle: true
 <p dir="rtl">
 يقضي الطلاب مئات الساعات في استخدام هذه الأدوات على مدار فترة تعليمهم (والآلاف على مدار حياتهم المهنية) ، لذلك من المنطقي جعل التجربة سلسة قدر الإمكان. إن إتقان هذه الأدوات لا يمكّنك فقط من قضاء وقت أقل في اكتشاف كيفية استخدام أدواتك وفقًا لإرادتك ، ولكنه يتيح لك أيضًا حل المشكلات التي كانت تبدو في السابق معقدة بشكل مستحيل.</p>
 
-&#x202b;اقرأ مزيدا حول [الدافع وراء هذا الدرس.](/about/)
+<p dir="rtl"> اقرأ مزيدا حول <a dir="rtl" href="/about/">الدافع وراء هذا الدرس.</a> </p>
 
 
 {% comment %}
@@ -20,11 +20,12 @@ nositetitle: true
 
 Sign up for the IAP 2020 class by filling out this [registration form](https://forms.gle/TD1KnwCSV52qexVt9).
 {% endcomment %}
+
+<h1 dir="rtl"> جدول الدروس </h1>
+
 <div dir="rtl">
 
-
-# جدول الدروس
- test commit
+ 
 
 {% comment %}
 **Lecture**: 35-225, 2pm--3pm<br>
@@ -47,9 +48,15 @@ Sign up for the IAP 2020 class by filling out this [registration form](https://f
 {% endfor %}
 </ul>
 
-Video recordings of the lectures are available [on YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J).
+</div>
 
-# About the class
+
+
+
+<p dir="rtl">تسجيلات المحاضرات متوفرة <a dir="rtl" href="https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J">على اليوتيوب </a>.</p>
+
+
+<h1 dir="rtl"> حول هذه الدروس </h1>
 
 **Staff**: This class is co-taught by [Anish](https://www.anishathalye.com/), [Jon](https://thesquareplanet.com/), and [Jose](http://josejg.com/).<br>
 **Questions**: Email us at [missing-semester@mit.edu](mailto:missing-semester@mit.edu).
