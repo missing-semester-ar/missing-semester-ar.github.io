@@ -1,32 +1,31 @@
 ---
 layout: page
-title: The Missing Semester of Your CS Education
+title: الفصل الدراسي المفقود من تعلمك لعلوم الكمبيوتر
 nositetitle: true
 ---
 
-Classes teach you all about advanced topics within CS, from operating systems
-to machine learning, but there’s one critical subject that’s rarely covered,
-and is instead left to students to figure out on their own: proficiency with
-their tools. We’ll teach you how to master the command-line, use a powerful
-text editor, use fancy features of version control systems, and much more!
 
-Students spend hundreds of hours using these tools over the course of their
-education (and thousands over their career), so it makes sense to make the
-experience as fluid and frictionless as possible. Mastering these tools not
-only enables you to spend less time on figuring out how to bend your tools to
-your will, but it also lets you solve problems that would previously seem
-impossibly complex.
+<p dir="rtl">
+تعلمك الفصول الدراسية كل شيء عن الموضوعات المتقدمة في علوم الكمبيوتر ، من أنظمة التشغيل إلى تعلم الآلة ، ولكن هناك مواضيع مهمة نادرًا ما يتم تغطيتها، وبدلاً من ذلك يُترك الطلاب لمعرفة ذلك بأنفسهم: الكفاءة في استخدام أدواتهم. سنعلمك كيفية إتقان سطر الأوامر، واستخدام محرر نصوص قوي ، واستخدام ميزات رائعة لأنظمة التحكم في الإصدار ، وأكثر من ذلك بكثير!
+</p>
 
-Read about the [motivation behind this class](/about/).
+<p dir="rtl">
+يقضي الطلاب مئات الساعات في استخدام هذه الأدوات على مدار فترة تعليمهم (والآلاف على مدار حياتهم المهنية) ، لذلك من المنطقي جعل التجربة سلسة قدر الإمكان. إن إتقان هذه الأدوات لا يمكّنك فقط من قضاء وقت أقل في اكتشاف كيفية استخدام أدواتك وفقًا لإرادتك ، ولكنه يتيح لك أيضًا حل المشكلات التي كانت تبدو في السابق معقدة بشكل مستحيل.</p>
+
+&#x202b;اقرأ مزيدا حول [الدافع وراء هذا الدرس.](/about/)
+
 
 {% comment %}
 # Registration
 
 Sign up for the IAP 2020 class by filling out this [registration form](https://forms.gle/TD1KnwCSV52qexVt9).
 {% endcomment %}
+<div dir="rtl">
 
-# Schedule
 
+# جدول الدروس
+
+<div>
 {% comment %}
 **Lecture**: 35-225, 2pm--3pm<br>
 **Office hours**: 32-G9 lounge, 3pm--4pm (every day, right after lecture)

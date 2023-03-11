@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "Command-line Environment"
+title: "بيئة سطر الاوار  Command-line Environment"
 date: 2020-01-21
 ready: true
 video:
