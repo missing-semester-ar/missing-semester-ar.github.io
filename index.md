@@ -47,8 +47,7 @@ Sign up for the IAP 2020 class by filling out this [registration form](https://f
 {% endfor %}
 </ul>
 
-Video recordings of the lectures are available [on
-YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J).
+Video recordings of the lectures are available [on YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J).
 
 # About the class
 
