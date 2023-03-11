@@ -24,7 +24,7 @@ Sign up for the IAP 2020 class by filling out this [registration form](https://f
 
 
 # جدول الدروس
-
+ test commit
 
 {% comment %}
 **Lecture**: 35-225, 2pm--3pm<br>
