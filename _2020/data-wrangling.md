@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "Data Wrangling"
+title: "معالجة البيانات | Data Wrangling"
 date: 2020-01-16
 ready: true
 video:

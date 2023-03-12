@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "Debugging and Profiling"
+title: "تصحيح الأخطاء والتوصيف | Debugging and Profiling"
 date: 2020-01-23
 ready: true
 video:

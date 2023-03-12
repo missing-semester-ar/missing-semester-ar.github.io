@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "Course overview + the shell"
+title: "نظرة عامة + بيئة العمل | Course overview + the shell"
 date: 2020-01-13
 ready: true
 video:

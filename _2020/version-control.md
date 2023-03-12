@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "Version Control (Git)"
+title: "نظام التحكم في الإصدارت (Git) | Version Control (Git)"
 date: 2020-01-22
 ready: true
 video:
