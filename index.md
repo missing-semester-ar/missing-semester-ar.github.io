@@ -25,7 +25,7 @@ Sign up for the IAP 2020 class by filling out this [registration form](https://f
 
 <div dir="rtl">
 
- 
+
 
 {% comment %}
 **Lecture**: 35-225, 2pm--3pm<br>
@@ -53,25 +53,38 @@ Sign up for the IAP 2020 class by filling out this [registration form](https://f
 
 
 
-<p dir="rtl">تسجيلات المحاضرات متوفرة <a dir="rtl" href="https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J">على اليوتيوب </a>.</p>
+<p dir="rtl">تسجيلات المحاضرات متوفرة <a  href="https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J">على اليوتيوب </a>.</p>
 
 
 <h1 dir="rtl"> حول هذه الدروس </h1>
+<p dir="rtl">
+<b>طاقم العمل:</b> 
+درست هذه الدروس بالتشارك بين كل من
+<a dir="rtl" href="https://www.anishathalye.com/"> Anish </a>
+و
+<a dir="rtl" href="https://thesquareplanet.com/"> Jon </a>
+و
+<a dir="rtl" href="http://josejg.com/"> Jose </a>.
+<br>
+<b>للأسئلة:</b> 
+ راسلنا بالانجليزية على 
+ <a dir="rtl" href="mailto:missing-semester@mit.edu"> missing-semester@mit.edu </a>.
+</p>
 
-**Staff**: This class is co-taught by [Anish](https://www.anishathalye.com/), [Jon](https://thesquareplanet.com/), and [Jose](http://josejg.com/).<br>
-**Questions**: Email us at [missing-semester@mit.edu](mailto:missing-semester@mit.edu).
+<h1 dir="rtl"> ما بعد معهد MIT</h1>
+<p dir="rtl">
+قمنا أيضا بنشر هذا الدروس الى ما بعد معهد MIT على امل ان يستفيد الجميع من هذه المصادر.
+يمكنك ان تجد المنشورات والمقاشات المتختلفة على:
+</p>
 
-# Beyond MIT
-
-We've also shared this class beyond MIT in the hopes that others may
-benefit from these resources. You can find posts and discussion on
-
- - [Hacker News](https://news.ycombinator.com/item?id=22226380)
- - [Lobsters](https://lobste.rs/s/ti1k98/missing_semester_your_cs_education_mit)
- - [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/comments/eyagda/the_missing_semester_of_your_cs_education_mit/)
- - [/r/programming](https://www.reddit.com/r/programming/comments/eyagcd/the_missing_semester_of_your_cs_education_mit/)
- - [Twitter](https://twitter.com/jonhoo/status/1224383452591509507)
- - [YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
+<ul dir="rtl">
+  <li><a href="https://news.ycombinator.com/item?id=22226380">  Hacker News</a></li>
+  <li><a href="https://lobste.rs/s/ti1k98/missing_semester_your_cs_education_mit"> Lobsters</a></li>
+  <li><a href="https://www.reddit.com/r/learnprogramming/comments/eyagda/the_missing_semester_of_your_cs_education_mit/"> /r/learnprogramming</a></li>
+  <li><a href="https://www.reddit.com/r/programming/comments/eyagcd/the_missing_semester_of_your_cs_education_mit/"> /r/programming</a></li>
+  <li><a href="https://twitter.com/jonhoo/status/1224383452591509507"> Twitter</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J"> YouTube</a></li>
+</ul>
 
 {% comment %}
 Some more URLs:
@@ -86,38 +99,49 @@ Some more URLs:
 - https://twitter.com/MIT_CSAIL/status/1581313961093484545
 {% endcomment %}
 
-# Translations
 
-- [Chinese (Simplified)](https://missing-semester-cn.github.io/)
-- [Chinese (Traditional)](https://missing-semester-zh-hant.github.io/)
-- [Japanese](https://missing-semester-jp.github.io/)
-- [Korean](https://missing-semester-kr.github.io/)
-- [Portuguese](https://missing-semester-pt.github.io/)
-- [Russian](https://missing-semester-rus.github.io/)
-- [Serbian](https://netboxify.com/missing-semester/)
-- [Spanish](https://missing-semester-esp.github.io/)
-- [Turkish](https://missing-semester-tr.github.io/)
-- [Vietnamese](https://missing-semester-vn.github.io/)
+<h1 dir="rtl"> الترجمات</h1>
+<ul dir="rtl">
+  <li><a href="https://missing.csail.mit.edu/"> الإنجليزية (المصدر الأصلي)</a></li>
+  <li><a href="https://missing-semester-cn.github.io/"> الصينية (المبسطة)</a></li>
+  <li><a href="https://missing-semester-zh-hant.github.io/"> الصينية (التقليدية)</a></li>
+  <li><a href="https://missing-semester-jp.github.io/"> اليابانية</a></li>
+  <li><a href="https://missing-semester-kr.github.io/"> الكورية</a></li>
+  <li><a href="https://missing-semester-pt.github.io/"> البرتغالية</a></li>
+  <li><a href="https://missing-semester-rus.github.io/"> الروسية</a></li>
+  <li><a href="https://netboxify.com/missing-semester/"> الصربية</a></li>
+  <li><a href="https://missing-semester-esp.github.io/"> الإسبانية</a></li>
+  <li><a href="https://missing-semester-tr.github.io/"> التركية</a></li>
+  <li><a href="https://missing-semester-vn.github.io/"> الفياتنامية</a></li>
+</ul>
+<p dir="rtl">
+  تنبيه: هذه الترجمات (بما فيها هذه الترجمة التي تقرأها الان) هي ترجمات مجتمعية ولم نقم بفحصها ومراجعتها.
+</p>
+<p dir="rtl">
+هل قمت بكتابة ترجمة لهذه الدروس؟ أرسل لنا طلب 
+<a href="https://github.com/missing-semester/missing-semester/pulls"> pull request</a>
+حتى نضيفها الى القائمة!
+</p>
 
-Note: these are external links to community translations. We have not vetted
-them.
+<h1 dir="rtl"> شكر و تقدير</h1>
 
-Have you created a translation of the course notes from this class? Submit a
-[pull request](https://github.com/missing-semester/missing-semester/pulls) so
-we can add it to the list!
+<p dir="rtl">
+نشكر كل من Elaine Mello, Elaine Mello و 
+<a href="https://openlearning.mit.edu/"> MIT Open Learning </a>
+لجعل هذه الفيديوهات ممكنة.
+Anthony Zolnik و 
+<a href="https://aeroastro.mit.edu/"> MIT AeroAstro </a>
+من اجل اجهزة ال A/V.
+<br> Brandi Adams و 
+<a href="https://www.eecs.mit.edu/"> MIT EECS </a>
+لدعم هذه الدروس.
 
-## Acknowledgements
-
-We thank Elaine Mello, Jim Cain, and [MIT Open
-Learning](https://openlearning.mit.edu/) for making it possible for us to
-record lecture videos; Anthony Zolnik and [MIT
-AeroAstro](https://aeroastro.mit.edu/) for A/V equipment; and Brandi Adams and
-[MIT EECS](https://www.eecs.mit.edu/) for supporting this class.
+</p>
 
 ---
 
 <div class="small center">
-<p><a href="https://github.com/missing-semester-ar/missing-semester-ar.github.io">Source code</a>.</p>
-<p>Licensed under CC BY-NC-SA.</p>
-<p>See <a href="/license/">here</a> for contribution &amp; translation guidelines.</p>
+<p><a href="https://github.com/missing-semester-ar/missing-semester-ar.github.io">المصدر</a>.</p>
+<p>.CC BY-NC-SA مرخصة تحت رخصة</p>
+<p>اضغط <a href="/license/">هنا</a> من اجل تعليمات المساهمة والترجمة</p>
 </div>
