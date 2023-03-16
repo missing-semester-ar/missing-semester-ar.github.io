@@ -1,6 +1,6 @@
 # The Missing Semester of Your CS Education
 
-[![Build Status](https://github.com/missing-semester/missing-semester/workflows/Build/badge.svg)](https://github.com/missing-semester/missing-semester/actions?query=workflow%3ABuild) [![Links Status](https://github.com/missing-semester/missing-semester/workflows/Links/badge.svg)](https://github.com/missing-semester/missing-semester/actions?query=workflow%3ALinks)
+[![Build Status](https://github.com/missing-semester-ar/missing-semester-ar.github.io/workflows/Build/badge.svg)](https://github.com/missing-semester-ar/missing-semester-ar.github.io/actions?query=workflow%3ABuild) [![Links Status](https://github.com/missing-semester-ar/missing-semester-ar.github.io/workflows/Links/badge.svg)](https://github.com/missing-semester-ar/missing-semester-ar.github.io/actions?query=workflow%3ALinks)
 
 Website for the [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) class!
 
