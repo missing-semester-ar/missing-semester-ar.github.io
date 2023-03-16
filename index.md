@@ -46,7 +46,7 @@ Sign up for the IAP 2020 class by filling out this [registration form](https://f
 {% endcomment %}
 
 <ul>
-{% assign lectures = site['2020'] | sort: 'date' %}
+{% assign lectures = site['_2020'] | sort: 'date' %}
 {% for lecture in lectures %}
     {% if lecture.phony != true %}
         <li>
