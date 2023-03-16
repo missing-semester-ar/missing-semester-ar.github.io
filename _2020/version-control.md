@@ -8,31 +8,57 @@ video:
   id: 2sjqTHE0zok
 ---
 
-Version control systems (VCSs) are tools used to track changes to source code
-(or other collections of files and folders). As the name implies, these tools
-help maintain a history of changes; furthermore, they facilitate collaboration.
-VCSs track changes to a folder and its contents in a series of snapshots, where
-each snapshot encapsulates the entire state of files/folders within a top-level
-directory. VCSs also maintain metadata like who created each snapshot, messages
-associated with each snapshot, and so on.
+<p dir="rtl">
 
-Why is version control useful? Even when you're working by yourself, it can let
-you look at old snapshots of a project, keep a log of why certain changes were
-made, work on parallel branches of development, and much more. When working
-with others, it's an invaluable tool for seeing what other people have changed,
-as well as resolving conflicts in concurrent development.
+أنظمة التحكم في الإصدار (VCSs) هي أدوات مستخدمة لتتبع التغييرات في التعليمات البرمجية المصدر (أو مجموعات أخرى من الملفات والمجلدات). كما يوحي الاسم، تساعد هذه الأدوات في الحفاظ على سجل التغييرات؛ علاوة على ذلك، فهي تسهل التعاون. تتعقب VCS التغييرات على مجلد ومحتوياته في سلسلة من اللقطات(سنابشوت Snapshots)، حيث تغلف كل لقطة الحالة الكاملة لكل للملفات و المجلدات داخل دليل المستوى الأعلى. تحتفظ VCS أيضًا ببيانات وصفية مثل من قام بأنشأ كل لقطة أو الرسائل المرتبطة بكل لقطة، وما إلى ذلك.
 
-Modern VCSs also let you easily (and often automatically) answer questions
-like:
+</p>
 
-- Who wrote this module?
-- When was this particular line of this particular file edited? By whom? Why
-  was it edited?
-- Over the last 1000 revisions, when/why did a particular unit test stop
-working?
+<p dir="rtl">
 
-While other VCSs exist, **Git** is the de facto standard for version control.
-This [XKCD comic](https://xkcd.com/1597/) captures Git's reputation:
+لماذا يعد التحكم في الإصدار مفيدًا؟ حتى عندما تعمل بمفردك، يمكن أن يتيح لك إلقاء نظرة على اللقطات القديمة للمشروع، والاحتفاظ بسجل لمعرفة سبب إجراء بعض التغييرات، والعمل على فروع التطوير الموازية في  نفس الوقت، وأكثر من ذلك بكثير. عند العمل مع الآخرين، فهي أداة لا تقدر بثمن لمعرفة ما قد تغيره الآخرون، بالإضافة إلى حل النزاعات في تطوير البرامج المتزامنة.
+
+</p>
+
+<p dir="rtl">
+
+تتيح لك VCS الحديثة أيضًا الإجابة بسهولة (وغالبًا تلقائيًا) على أسئلة مثل:
+
+</p>
+<ul dir="rtl">
+  <li>
+  
+   من كتب هذه الوحدة؟
+
+</li>
+
+<li>
+
+ متى تم تعديل  هذا السطر المحدد من هذا الملف بالتحديد؟ بواسطة من؟ولماذا تم تعديله؟
+
+</li>
+ <li>
+
+ خلال آخر 1000 اصدار ، متى / لماذا توقفت وحدة اختبار معينة عن عمل؟
+
+</li>
+</ul>
+
+
+<p dir="rtl">
+
+على الرغم من وجود VCSs أخرى ، فإن
+
+<b>Git</b>
+
+يعتبر الخيار الأول للتحكم في الإصدار. يلتقط
+
+<a  href="https://xkcd.com/1597/"> كركتير XKCD</a>
+
+الهزلي هذا سمعة Git:
+
+</p>
+
 
 ![xkcd 1597](https://imgs.xkcd.com/comics/git.png)
 
