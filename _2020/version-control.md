@@ -62,26 +62,36 @@ video:
 
 ![xkcd 1597](https://imgs.xkcd.com/comics/git.png)
 
-Because Git's interface is a leaky abstraction, learning Git top-down (starting
-with its interface / command-line interface) can lead to a lot of confusion.
-It's possible to memorize a handful of commands and think of them as magic
-incantations, and follow the approach in the comic above whenever anything goes
-wrong.
+<p dir="rtl">
 
-While Git admittedly has an ugly interface, its underlying design and ideas are
-beautiful. While an ugly interface has to be _memorized_, a beautiful design
-can be _understood_. For this reason, we give a bottom-up explanation of Git,
-starting with its data model and later covering the command-line interface.
-Once the data model is understood, the commands can be better understood in
-terms of how they manipulate the underlying data model.
+لأن الطريقة التي نتعامل بها مع نظام
+Git
+غامصة, فإن تعلم التعامل مع النظام عن طريق تعلم الاوامر يقود الى كثير من الغموض, من الممكن تعلم قدر بسيط من الأوامر واستخدامها, وفي حال تعرضت الى موقف ولم تستطع التعامل مع النظام فقط قم بمحاكاة الكركتير.  
 
-# Git's data model
+</p>
 
-There are many ad-hoc approaches you could take to version control. Git has a
-well-thought-out model that enables all the nice features of version control,
-like maintaining history, supporting branches, and enabling collaboration.
 
-## Snapshots
+
+<p dir="rtl">
+
+في حين أن Git لديها واجهة قبيحة ، إلا أن تصميمها الأساسي وأفكارها جميلة. بينما يجب حفظ الواجهة القبيحة ، يمكن فهم التصميم الجميل. لهذا السبب ، نقدم شرحًا تصاعديًا لـ Git ، بدءًا من نموذج البيانات الخاص به ثم يغطي لاحقًا واجهة سطر الأوامر. بمجرد فهم نموذج البيانات ، يمكن فهم الأوامر بشكل أفضل من حيث كيفية معالجتها لنموذج البيانات الأساسي.
+
+</p>
+
+<h1 dir="rtl">
+نظام بيانات Git
+</h1>
+
+
+<p dir="rtl">
+
+هناك العديد من الأساليب التي يمكنك اتباعها للتحكم في الإصدار. يمتلك Git نموذجًا مدروسًا جيدًا يتيح جميع الميزات الرائعة للتحكم في الإصدار ، مثل الحفاظ على السجل ودعم الفروع وتمكين التعاون.
+</p>
+
+<h2 dir="rtl">
+اللقطات Snapshots
+</h2>
+
 
 Git models the history of a collection of files and folders within some
 top-level directory as a series of snapshots. In Git terminology, a file is
